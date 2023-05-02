@@ -1,0 +1,2 @@
+INSERT INTO tb_instrutor(nascimento, nome, rg, titulacao) VALUES ('10/05/1986', 'André', 893822349, 2);
+INSERT INTO tb_instrutor(nascimento, nome, rg, titulacao) VALUES ('09/03/1992', 'Simon', 182838748, 5);
